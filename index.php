@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
-    <title>Mexant - Financial HTML5 Template</title>
+    <title>DevCode Learning</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -50,11 +50,14 @@ https://templatemo.com/tm-574-mexant
                           <li class="scroll-to-section"><a href="#services">Services</a></li>
                           <li class="scroll-to-section"><a href="#about">About</a></li>
                           <li class="has-sub">
-                              <a href="javascript:void(0)">Pages</a>
+                              <a href="javascript:void(0)">Course</a>
                               <ul class="sub-menu">
-                                  <li><a href="about-us.html">About Us</a></li>
-                                  <li><a href="our-services.html">Our Services</a></li>
-                                  <li><a href="contact-us.html">Contact Us</a></li>
+                                  <li><a href="about-us.html">Sysadmin Linux</a></li>
+                                  <li><a href="our-services.html">PHP Fundamental</a></li>
+                                  <li><a href="our-services.html">CSS Fundamental</a></li>
+                                  <li><a href="our-services.html">Bootstrap</a></li>
+                                  <li><a href="our-services.html">Laravel</a></li>
+                                  <li><a href="contact-us.html">Codeigniter</a></li>
                               </ul>
                           </li>
                           <li class="scroll-to-section"><a href="#testimonials">Testimonials</a></li>
